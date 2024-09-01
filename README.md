@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game 🪨📄✂️
 ---
-[In Python]()
+[In C Script](https://github.com/mdriyadkhan585/rock-paper-scissors-C)
 
 ![Logo](logo.svg)
 
